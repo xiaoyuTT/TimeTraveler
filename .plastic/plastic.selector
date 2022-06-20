@@ -1,0 +1,4 @@
+repository "TimeTraveler@ssl://xiaoyutt@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main" 
+     

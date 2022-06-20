@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - item
+  - item1
+  - Battery
+  - Enemy
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ItemContactLayer
+  - Water
+  - UI
+  - UI Button
+  - Bullet
+  - ground
+  - enemy
+  - ladder
+  - Detect
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2918915165
+    locked: 0
+  - name: terrian
+    uniqueID: 41283361
+    locked: 0
+  - name: item
+    uniqueID: 2032801173
+    locked: 0
+  - name: player
+    uniqueID: 1499198415
+    locked: 0

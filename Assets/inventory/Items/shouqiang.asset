@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62281cd1876d5374fa1e798f2b9e5562, type: 3}
+  m_Name: shouqiang
+  m_EditorClassIdentifier: 
+  itemName: shouqiang
+  itemImage: {fileID: 21300000, guid: 198f201b58c752f4d81fd0414d243d88, type: 3}
+  itemHeld: 0
+  iteminfo: this is item1
+  bullet: {fileID: 7390967274239257179, guid: cca5801ed7e45b64ca0fff416caca16a, type: 3}
